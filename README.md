@@ -1,2 +1,4 @@
 # Test
-My first repository, biatch
+Welcome to my first repository, biatch.
+
+Pay respect.
